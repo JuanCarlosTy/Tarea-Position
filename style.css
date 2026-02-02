@@ -1,0 +1,14 @@
+.cr {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+}
+
+.cb {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 200px;
+    left: 150px;
+}
